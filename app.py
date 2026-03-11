@@ -5,6 +5,7 @@ from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 import base64
 from pathlib import Path
+import re
 
 # -----------------------------
 # Page Config
@@ -178,12 +179,19 @@ def detect_order_tracking(text):
     return False
 
 
+
 def detect_greeting(text):
-    greetings = ["hi", "hello", "hey", "good morning", "good afternoon", "good evening"]
-    text = text.lower()
-    for word in greetings:
-        if word in text:
-            return True
+    greetings = ["hi", "hello", "hey"]
+
+    text = text.lower().strip()
+
+    words = re.findall(r"\b\w+\b", text)
+
+    if len(words) <= 3:
+        for g in greetings:
+            if g == words[0]:
+                return True
+
     return False
 
 # -----------------------------
