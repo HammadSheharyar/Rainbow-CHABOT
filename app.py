@@ -35,7 +35,7 @@ background:linear-gradient(135deg,#121212,#1f1f1f);
 padding:16px 28px; border-radius:5px;
 margin-bottom:10px;
 box-shadow:0 4px 16px rgba(0,0,0,0.5);
-border:1px solid #3a3a3a;
+border:0px solid #3a3a3a;
 min-height:150px;
 }}
 
