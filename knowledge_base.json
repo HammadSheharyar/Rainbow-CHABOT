@@ -2,8 +2,8 @@
   {
     "id": 1,
     "category": "Returns",
-    "question": "Why didn\u2019t I receive a prepaid return label? Do you provide return shipping labels?",
-    "answer": "Thank you for your response and explanation of your situation. Unfortunately, we do not provide return shipping labels. We can assist with reimbursing you up to $12.00 to send any items back to us. We usually recommend shipping items back via your local post office. They have flat rate envelopes that run between $4-7 and provide you with tracking and insurance. When you mail them to us have the clerk include a copy of the shipping receipt in the package and once, they arrive we can refund you back to the original form of payment. I hope this information is helpful, but please let us know if you have any other questions or concerns."
+    "question": "Why didn't I receive a prepaid return label? Do you provide return shipping labels?",
+    "answer": "Thank you for your response and explanation of your situation. Unfortunately, we do not provide return shipping labels. We can assist with reimbursing you up to \\$12.00 to send any items back to us. We usually recommend shipping items back via your local post office. They have flat rate envelopes that run between \\$4-7 and provide you with tracking and insurance. When you mail them to us have the clerk include a copy of the shipping receipt in the package and once, they arrive we can refund you back to the original form of payment. I hope this information is helpful, but please let us know if you have any other questions or concerns."
   },
   {
   "id": 2,
@@ -11,7 +11,6 @@
   "question": "How do I return or exchange my sandals?",
   "answer": "Thank you for reaching out and for your order. We can assist with a return or exchange if the sandals are still in like-new condition and do not have a visible footprint on the top layers. Inside the package, on the back of the included sizing chart, you will find our full Return/Exchange form. I have also included a link below to our full policy information for your reference. Please let us know if you have any other questions or concerns.\n\nReturn/Exchange Policy: https://www.rainbowsandals.com/customer-service/return-exchange"
 },
-
 
 {
     "id": 3,
@@ -23,7 +22,7 @@
   "id": 4,
   "category": "Donation",
   "question": "Can I donate my old sandals? How does Repair Reuse Recycle work?",
-  "answer": "Thank you for reaching out to us and for your continued support of our brand. At this time, you can absolutely mail any old pairs of Rainbow Sandals to us for donation. You will want to mail them to us at the address below. Please include a note with your full name and that they are being sent in for donation. Once they arrive, we will have them cleaned up, repaired, and shipped out to people around the world. I hope this information is helpful, but please let us know if you have any other questions or concerns.\n\nRAINBOW SANDALS\n900 CALLE NEGOCIO\nSAN CLEMENTE, CA 92673\n\nRepair.Reuse.Recycle: https://www.rainbowsandals.com/rainbow-story/repair-reuse-recycle"
+  "answer": "Thank you for reaching out to us and for your continued support of our brand. At this time, you can absolutely mail any old pairs of Rainbow Sandals to us for donation. You will want to mail them to us at the address below. Please include a note with your full name and that they are being sent in for donation. Once they arrive, we will have them cleaned up, repaired, and shipped out to people around the world. I hope this information is helpful, but please let us know if you have any other questions or concerns.\n\nRAINBOW SANDALS  \n900 CALLE NEGOCIO  \nSAN CLEMENTE, CA 92673\n\nRepair.Reuse.Recycle: https://www.rainbowsandals.com/rainbow-story/repair-reuse-recycle"
 },
 
 {
@@ -36,135 +35,154 @@
     "id": 6,
     "category": "Warranty",
     "question": "My sandals broke again after being repaired. What can you do?",
-    "answer": "Thank you for your response, I apologize for the repair job that was not completed properly for you. For this situation where it is the second time an item is breaking after being repaired, we will fully replace the sandals for you with a brand-new pair. When you mail the sandals into us include a note/copy of this email explaining the situation. Once they arrive, we can assist further with fully replacing them and shipping them out to you at no additional charge. When you mail these sandals back to us, have the clerk include a copy of the return shipping receipt and we can reimburse you up to $12.00 this time for the return shipping costs. I apologize for any trouble this situation may have caused, but I look forward to assisting with resolving this matter for you. Please let me know if you have any other questions or concerns."
+    "answer": "Thank you for your response, I apologize for the repair job that was not completed properly for you. For this situation where it is the second time an item is breaking after being repaired, we will fully replace the sandals for you with a brand-new pair. When you mail the sandals into us include a note/copy of this email explaining the situation. Once they arrive, we can assist further with fully replacing them and shipping them out to you at no additional charge. When you mail these sandals back to us, have the clerk include a copy of the return shipping receipt and we can reimburse you up to \\$12.00 this time for the return shipping costs. I apologize for any trouble this situation may have caused, but I look forward to assisting with resolving this matter for you. Please let me know if you have any other questions or concerns."
   },
-  
+
   {
     "id": 7,
     "category": "Order Status",
-    "question": "Customer Question: Can you check the status of my order?",
+    "question": "Can you check the status of my order?",
     "answer": "Thank you for reaching out to us, and for your order. I may be able to assist with finding your order information and providing an update. If possible, can you please reply with the Order Number, or the full Billing Name and Address you entered when you placed your order. From there I should be able to find the order and provide a full update on the status. I look forward to your response, but please let us know if you have any other questions or concerns."
   },
   {
     "id": 8,
     "category": "Tracking Information",
-    "question": "Customer Question: What is my tracking number? / Where is my order?",
+    "question": "What is my tracking number? / Where is my order?",
     "answer": "Hello,\n\nThank you for reaching out to us and for your order. I have included your tracking number and the link to track the package below. Please let us know if you have any other questions or concerns.\n\nTracking Number:\n\nTracking Link:\n\nTake Care,"
   },
   {
     "id": 9,
     "category": "Warranty",
-    "question": "Customer Question: My sandals stained my feet—is this covered under warranty?",
+    "question": "My sandals stained my feet—is this covered under warranty?",
     "answer": "Thank you for your photos and explanation. What you are experiencing is not something that is covered under our warranty. When leather gets wet it will stiffen as it dries, it can crack, bleed, stain, shrink, or do nothing. Leather is unpredictable and it doesn’t necessarily do the same thing twice. Water is not good for leather and while I do realize that the sandals were not being used with the intent to get them wet, this did happen because of use and is therefore not covered. After they are totally dry and have been worn a few times dry the bleeding should slow down and eventually stop but no guarantee. I apologize we cannot be of further assistance."
   },
+
   {
-    "id": 10,
-    "category": "Gift Cards",
-    "question": "Do you sell gift cards online?",
-    "answer": "Thank you for reaching out to us, and for your interest in our brand. Unfortunately, we only offer Gift Certificates in our San Clemente, CA Outlet Location. The Gift certificates we offer currently only work in our San Clemente, CA Outlet Location. We do not have any active plans to instate Gift Certificates that will work on our Website Store. I hope this information is helpful, but please let us know if you have any other questions or concerns."
+  "id": 10,
+  "category": "Gift Cards",
+  "question": "Do you sell gift cards online?",
+  "answer": "Thank you for reaching out to us, and for your interest in our brand. Unfortunately, we only offer Gift Certificates in our San Clemente, CA Outlet Location. The Gift certificates we offer currently only work in our San Clemente, CA Outlet Location. We do not have any active plans to instate Gift Certificates that will work on our Website Store. I hope this information is helpful, but please let us know if you have any other questions or concerns."
   },
+
   {
-    "id": 11,
-    "category": "Inventory",
-    "question": "Can I buy just one sandal?",
-    "answer": "Unfortunately we cannot sell single sandals because it would create inventory issues within our system. Some customers have had success buying or selling single sandals through marketplaces such as eBay.I hope this info helps."
+  "id": 11,
+  "category": "Inventory",
+  "question": "Can I buy just one sandal?",
+  "answer": "Unfortunately we cannot sell single sandals because it would create inventory issues within our system. Some customers have had success buying or selling single sandals through marketplaces such as eBay.I hope this info helps."
   },
+
   {
-    "id": 12,
-    "category": "Shipping Issue",
-    "question": "My package is marked delivered but I didn\u2019t receive it. What should I do?",
-    "answer": "Thank you for your response and explanation of the situation. We will begin a claim process for you where we will contact the US Postal Service to determine exactly what occurred and the location of your order. Response time from the Postal Service is usually between 1-3 business days. Once we hear back from them, we will contact you directly to let you know the options available to get your sandals to you as soon as possible. I hope this information is helpful, but please let us know if you have any other questions or concerns."
+  "id": 12,
+  "category": "Shipping Issue",
+  "question": "My package is marked delivered but I didn\u2019t receive it. What should I do?",
+  "answer": "Thank you for your response and explanation of the situation. We will begin a claim process for you where we will contact the US Postal Service to determine exactly what occurred and the location of your order. Response time from the Postal Service is usually between 1-3 business days. Once we hear back from them, we will contact you directly to let you know the options available to get your sandals to you as soon as possible. I hope this information is helpful, but please let us know if you have any other questions or concerns."
   },
+
   {
-    "id": 13,
-    "category": "Repair",
-    "question": "Can you replace worn-out soles?",
-    "answer": "Thank you for those photos. Worn soles are not covered under our warranty. We can replace these soles at a price for you though. It’s a highly labor-intensive process and the cost is $20.00 per sandal, or $40.00 for the pair. This covers installation of a new soles, sanding around the edges of both sandals, and shipping back to your home. If you are interested, please mail both sandals into us at the address below in my signature and include a check, money order, credit card number, or cash as well as a note indicating you would like to use the pay for resoling repair service. Thank you."
+  "id": 13,
+  "category": "Repair",
+  "question": "Can you replace worn-out soles?",
+  "answer": "Thank you for those photos. Worn soles are not covered under our warranty. We can replace these soles at a price for you though. It’s a highly labor-intensive process and the cost is \\$20.00 per sandal, or \\$40.00 for the pair. This covers installation of a new soles, sanding around the edges of both sandals, and shipping back to your home. If you are interested, please mail both sandals into us at the address below in my signature and include a check, money order, credit card number, or cash as well as a note indicating you would like to use the pay for resoling repair service. Thank you."
   },
+
   {
-    "id": 14,
-    "category": "Repair",
-    "question": "My dog chewed my sandals. Can they be repaired?",
-    "answer": "Dog chew damage is not covered under warranty, but we can replace the strap for $20 per strap. This includes installing the new strap, sanding the edges, and shipping the sandals back to you."
+  "id": 14,
+  "category": "Repair",
+  "question": "My dog chewed my sandals. Can they be repaired?",
+  "answer": "Dog chew damage is not covered under warranty, but we can replace the strap for \\$20 per strap. This includes installing the new strap, sanding the edges, and shipping the sandals back to you."
   },
+
   {
-    "id": 15,
-    "category": "Repair",
-    "question": "My dog chewed my sandals. What are my options?",
-    "answer": "Thank you for those photos. Dog chews are not covered under our warranty. We can replace this strap at a price for you though. It’s a highly labor-intensive process and the cost is $20.00 per strap. This covers installation of a new strap, sanding around the edges of both sandals, and shipping back to your home. If you are interested, please mail both sandals into us at the address below in my signature and include a check, money order, credit card number, or cash as well as a note indicating you would like to use the pay for dog chew repair service. Thank you."
+  "id": 15,
+  "category": "Repair",
+  "question": "My dog chewed my sandals. What are my options?",
+  "answer": "Thank you for those photos. Dog chews are not covered under our warranty. We can replace this strap at a price for you though. It’s a highly labor-intensive process and the cost is \\$20.00 per strap. This covers installation of a new strap, sanding around the edges of both sandals, and shipping back to your home. If you are interested, please mail both sandals into us at the address below in my signature and include a check, money order, credit card number, or cash as well as a note indicating you would like to use the pay for dog chew repair service. Thank you."
   },
+
   {
-    "id": 16,
-    "category": "Comfort",
-    "question": "My sandals hurt. How do I break them in faster?",
-    "answer": "Thank you for reaching out to us, I am sorry to hear about the trouble you are experiencing with our sandals. One thing to mention is the strap on the sandal will be tight at first, as the sandals do have an initial break in period. During this time, you will want to start of wearing them for 5-10 minutes at a time, until the materials in the straps and the foam in the foot bed conform to your feet. Other tricks you can use to help beak them in faster are, wedging a water bottle under the straps overnight. This will help stretch the straps and alleviate some of the pressure between your toes. Also, customers have reported wearing an old pair of socks with their sandals helps them break in. Please give those suggestions a try before giving up on them. Once they break in, they become very comfortable. Please let us know if you do have any other questions or concerns."
+  "id": 16,
+  "category": "Comfort",
+  "question": "My sandals hurt. How do I break them in faster?",
+  "answer": "Thank you for reaching out to us, I am sorry to hear about the trouble you are experiencing with our sandals. One thing to mention is the strap on the sandal will be tight at first, as the sandals do have an initial break in period. During this time, you will want to start of wearing them for 5-10 minutes at a time, until the materials in the straps and the foam in the foot bed conform to your feet. Other tricks you can use to help beak them in faster are, wedging a water bottle under the straps overnight. This will help stretch the straps and alleviate some of the pressure between your toes. Also, customers have reported wearing an old pair of socks with their sandals helps them break in. Please give those suggestions a try before giving up on them. Once they break in, they become very comfortable. Please let us know if you do have any other questions or concerns."
   },
- {
+
+  {
   "id": 17,
   "category": "Ordering",
   "question": "I\u2019m having trouble placing an order on the website. Can you help?",
-  "answer": "Thank you for reaching out to us, I apologize for any trouble with getting an order placed on the website. We use USPS to validate the address information, after you enter you zip code a pop up will typically appear allowing you to confirm the address. If that is not happening we can place the order manually for you. For us to do this we will need the following information emailed back to us:\n\nBilling Name and Address\nShip to Name and Address\nItem/s you wish to purchase\nPhone number\n\n*Method of payment \nWe can call you directly for payment information if you prefer\nOR\nIf you provide your card information all we need is the Card Number and Expiration Date\nOnce we have your email response with the requested information, we can move forward with calling you for payment information. If you provide your payment information in the email, we will move forward with placing the order. Another option is we do sell our sandals officially through Amazon if that is an easier route. I hope this information is helpful, and we look forward to getting your email response and assisting with placing the order manually"
-},
- {
+  "answer": "Thank you for reaching out to us, I apologize for any trouble with getting an order placed on the website. We use USPS to validate the address information, after you enter you zip code a pop up will typically appear allowing you to confirm the address. If that is not happening we can place the order manually for you. For us to do this we will need the following information emailed back to us:\n\nBilling Name and Address\nShip to Name and Address\nItem/s you wish to purchase\nPhone number\n\n*Method of payment\n\nWe can call you directly for payment information if you prefer\nOR\nIf you provide your card information all we need is the Card Number and Expiration Date\nOnce we have your email response with the requested information, we can move forward with calling you for payment information. If you provide your payment information in the email, we will move forward with placing the order. Another option is we do sell our sandals officially through Amazon if that is an easier route. I hope this information is helpful, and we look forward to getting your email response and assisting with placing the order manually."
+  },
+
+  {
   "id": 18,
   "category": "Custom Orders",
   "question": "How do I place a custom sandal order?",
-  "answer": "Thank you for reaching out to us. We can place a custom order for our standard or narrow strap – single or double layer - leather, hemp, or rubber options with the requested custom option for you at this time. For us to do this we will need the following:\n\nBilling Name and Address\nShip to Name and Address\nItem/s you wish to purchase\n(Color, size, style, and customization)\nPhone number\n\n*Method of payment \nWe can call you directly for payment information if you prefer\nOR\nIf you provide your card information all we need is the Card Number and Expiration Date\n\nThe cost of custom orders is $140.00 plus tax (if applicable). If this sounds good for you, we can begin as soon as we receive your response. Please let us know if you have any other questions or concerns.\n"
-},
+  "answer": "Thank you for reaching out to us. We can place a custom order for our standard or narrow strap – single or double layer - leather, hemp, or rubber options with the requested custom option for you at this time. For us to do this we will need the following:\n\nBilling Name and Address\nShip to Name and Address\nItem/s you wish to purchase\n(Color, size, style, and customization)\nPhone number\n\n*Method of payment\n\nWe can call you directly for payment information if you prefer\nOR\nIf you provide your card information all we need is the Card Number and Expiration Date\n\nThe cost of custom orders is \\$140.00 plus tax (if applicable). If this sounds good for you, we can begin as soon as we receive your response. Please let us know if you have any other questions or concerns.\n"
+  },
+
   {
   "id": 19,
   "category": "International Orders",
   "question": "Do you ship internationally? How do I place an international order?",
   "answer": "Thank you for reaching out to us and for your interest in our brand. We can ship internationally to your country. To get this process started we need a few things:\n\n- Your full billing and Shipping name and address (including postal/ zip code)\n- The Exact Items you would like to order (color, size, and style)\n- Phone Number\n\nAfter you provide us these things, we can generate a shipping quote for you. From that point, if you agree to the shipping cost we can arrange for payment and process the order for you. Another thing to mention is we do sell our sandals officially through Amazon, which may provide better shipping options to your location. I look forward to your response, but please let us know if you have any other questions or concerns.\n"
-},
-{
+  },
+
+  {
   "id": 20,
   "category": "Exchange",
   "question": "How do I complete an exchange?",
-  "answer": "YThere are two options:\nWe can place the exchange order for you.\nPlease complete the return form with the exchange details (form is located at the link below)\nShip the item/s back to us at your expense\nWe charge $7 for shipping the exchange item back to you (please include a check or money order, otherwise with your permission we can charge the card on file)\nYou can place a new order online and send your package back to us for refund.\nPlease complete the return form with the refund details (form is located at the link below)\nShip the item/s back to us at your expense\nIt can take up to 2-3 business days for the refund to show up on your card once we process the refund\n\nOur address is:\nRainbow Sandals\n900 Calle Negocio\nSan Clemente, CA 92673\n\nPlease keep in mind the sandals must be in like new condition. They cannot have a visible footprint, dirt, or blemishes on them, or they will not be accepted back for return or exchange.\n\nPlease let us know if you have any other questions.\n\nHere is the link to the return form: https://www.rainbowsandals.com/customer-service/return-exchange \n"
-},
-{
+  "answer": "There are two options:\nWe can place the exchange order for you.\nPlease complete the return form with the exchange details (form is located at the link below)\nShip the item/s back to us at your expense\nWe charge \\$7 for shipping the exchange item back to you (please include a check or money order, otherwise with your permission we can charge the card on file)\nYou can place a new order online and send your package back to us for refund.\nPlease complete the return form with the refund details (form is located at the link below)\nShip the item/s back to us at your expense\nIt can take up to 2-3 business days for the refund to show up on your card once we process the refund\n\nOur address is:\nRainbow Sandals  \n900 Calle Negocio   \nSan Clemente, CA 92673\n\nPlease keep in mind the sandals must be in like new condition. They cannot have a visible footprint, dirt, or blemishes on them, or they will not be accepted back for return or exchange.\n\nPlease let us know if you have any other questions.\n\nHere is the link to the return form: https://www.rainbowsandals.com/customer-service/return-exchange \n"
+  },
+
+  {
   "id": 21,
   "category": "Order Issue",
   "question": "I received a defective or incorrect item. What should I do?",
-  "answer": "PI’m very sorry we sent you a defective item. We can make this right for you. There are 2 options for you:\n \nWe can send you a FedEx return label; or you can ship them back to us at your cost and we can reimburse you for the shipping cost. I highly suggest you do the second option and mail them back to us and we can reimburse you. It will be significantly faster as if you request a FedEx label then we must request it from the warehouse. It usually takes them about a week to get us the label since they are so busy right now. Be sure to fill out the exchange form that was in the package or include a note with all your contact info and a description of exactly what we did wrong and what you should have received. At that point mail it back to us and we will get you the correct item back as soon as we can. We cannot mail out the correct item before we receive the other one back first.\n \nTake care and sorry again!\n"
-},
-{
+  "answer": "I’m very sorry we sent you a defective item. We can make this right for you. There are 2 options for you:\n \nWe can send you a FedEx return label; or you can ship them back to us at your cost and we can reimburse you for the shipping cost. I highly suggest you do the second option and mail them back to us and we can reimburse you. It will be significantly faster as if you request a FedEx label then we must request it from the warehouse. It usually takes them about a week to get us the label since they are so busy right now. Be sure to fill out the exchange form that was in the package or include a note with all your contact info and a description of exactly what we did wrong and what you should have received. At that point mail it back to us and we will get you the correct item back as soon as we can. We cannot mail out the correct item before we receive the other one back first.\n \nTake care and sorry again!\n"
+  },
+
+  {
   "id": 22,
   "category": "Warranty",
   "question": "Are my sandals still under the 6-month warranty?",
   "answer": "Thank you for sending us the photos. Your Sandals have a 6-month warranty if you can provide proof of purchase. This requirement was stated on the tags when your item was purchased new. Sufficient proof of purchase can be a receipt or bank statement. If you have this then go ahead and send the sandals in to us at the address listed below, if you do not have proof of purchase then we would not be able to repair or replace your sandals. Please let us know if you have any additional questions.\n\n6-Month Warranty:  https://www.rainbowsandals.com/customer-service/6-month-warranty \n"
-},
- {
+  },
+
+  {
   "id": 23,
   "category": "Store Locator",
   "question": "What stores carry your sandals near me?",
   "answer": "Please use the link below to use our Store Locator. You can enter you zip code and change the distance to see close by retailers that carry our products. \n\nStore Locator: https://www.rainbowsandals.com/store-locator \n"
-},
-{
+  },
+
+  {
   "id": 24,
   "category": "Product Info",
   "question": "Do you offer vegan friendly sandals?",
   "answer": "Thank you for reaching out to us, and for your interest in our brand. We have a few different styles that are Vegan friendly options. Any of our Hemp sandals, and any of our Rubber sandals that do not have Leather Straps will be Vegan friendly. I have provided the links below for your reference, but please let us know if you have any other questions or concerns.\n\nHemp\n\nMen’s : https://www.rainbowsandals.com/mens/sandals/hemp \n\nLadies: https://www.rainbowsandals.com/womens/sandals/hemp \n\nRubber\n\nSingle Layer Classic – Men’s: https://www.rainbowsandals.com/product/301ARP00_MENS \n\nSingle Layer Classic – Ladies: https://www.rainbowsandals.com/product/301ARP00_LADIES \n"
-},
- {
+  },
+
+  {
   "id": 25,
   "category": "Warranty",
   "question": "My leather cracked. Can it be repaired under warranty?",
   "answer": "Cracked leather\n\nThank you for sending us the photos, unfortunately, your sandals are no longer covered by our Rainbow warranty due to the Cracked Leather. Once this occurs in the sandals, we are no longer able to take them apart to repair any manufacturing defects. Cracked and worn-down leather is not considered a manufacturing defect but rather and wear and tear issue. Like any leather product our leather sandals run the risk of cracking. This is generally caused by the sandals collecting moisture from water or sweat and drying out repeatedly. I’m sorry about this. Let us know if you have any additional questions.\n\nWarranty: https://www.rainbowsandals.com/customer-service/rainbow-guarantee\n"
-},
- {
+  },
+
+  {
   "id": 26,
   "category": "Warranty",
   "question": "My strap tore. Why is this not covered under warranty?",
   "answer": "Thank you for sending us the photos, unfortunately torn straps are not covered under our warranty. Our warranty covers manufacturing defects such as straps pulling out, stitching coming undone, layers of the sandals separating, leather bubbling, anything that would indicate the sandals were not constructed properly.  Wear and tear issues such as worn-down soles, torn straps, cracked leather, dog chew, etc. are not covered because they are caused by use which as a manufacture we have no control over.  Please let us know if you have additional questions.\n\nWarranty: https://www.rainbowsandals.com/customer-service/rainbow-guarantee\n"
-},
+  },
+
   {
     "id": 27,
     "category": "Warranty",
     "question": "I wore through the heel or sole. Can it be replaced under warranty?",
     "answer": "Thank you for sending us your photos, unfortunately due to the worn-out heels, your sandals are no longer covered under our warranty. Our warranty covers manufacturing defects such as straps pulling out, stitching coming undone, layers of the sandals separating, leather bubbling, anything that would indicate the sandals were not constructed properly. We cover the sandals until you have worn through either the top or bottom layer of the sandal.  When you do wear through either the top or bottom layer of the sandal that voids the warranty and we will no longer cover them against any defect. The company’s position is that once you have worn through the layers you have got sufficient use of the sandal. Please let us know if you have any questions.\n\nWarranty: https://www.rainbowsandals.com/customer-service/rainbow-guarantee\n"
   },
+
  {
   "id": 28,
   "category": "Warranty",
