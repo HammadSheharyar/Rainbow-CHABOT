@@ -34,7 +34,7 @@ display:flex; align-items:center; gap:16px;
 background:linear-gradient(135deg,#121212,#1f1f1f);
 padding:16px 28px; border-radius:5px;
 margin-bottom:10px;
-box-shadow:0 4px 16px rgba(0,0,0,0.5);
+box-shadow:0 3px 10px rgba(0,0,0,0.5);
 border:0px solid #3a3a3a;
 min-height:150px;
 }}
@@ -62,7 +62,7 @@ border-radius:2px;
 
 .header-title {{
 color:white;
-font-size:1.35rem;
+font-size:1.5rem;
 font-weight:700;
 }}
 
