@@ -27,6 +27,13 @@ logo_base64 = get_base64_image("logo.jpeg")
 # -----------------------------
 st.markdown(f"""
 <style>
+/* 🔥 Hide Streamlit Default UI */
+#MainMenu {visibility: hidden;}
+header {visibility: hidden;}
+footer {visibility: hidden;}
+
+
+
 .block-container {{ padding-top: 1.5rem !important; overflow: visible !important; }}
 section[data-testid="stMain"] > div {{ overflow: visible !important; }}
 
@@ -85,6 +92,8 @@ Rainbow Customer Assistant
 <span>Your support, simplified.</span>
 </div>
 </div>
+
+
 """, unsafe_allow_html=True)
 
 st.write("Hello! Ask me about **orders, returns, warranty, repairs, or store information.**")
