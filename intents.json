@@ -374,6 +374,9 @@
   "category": "Exchange",
   "question": "How do I complete an exchange?",
   "intents": [
+    "What steps are needed to finish an exchange?",
+    "How do I return an item for an exchange?",
+    
 "how to exchange sandals",
 "exchange my order",
 "sandal exchange process",
@@ -391,6 +394,13 @@
   "category": "Order Issue",
   "question": "I received a defective or incorrect item. What should I do?",
   "intents": [
+
+    "My order arrived damaged or incorrect. What are the next steps?",
+    "I got the wrong item in my order. How can I fix this?",
+    "My order was delivered with a problem. What should I do?",
+    "The product I received isn’t what I ordered. What are my options?",
+    "I received a faulty item. How can I report it? 📦🔄",
+    
 "received wrong item",
 "defective item received",
 "incorrect order",
@@ -408,6 +418,8 @@
   "category": "Warranty",
   "question": "Are my sandals still under the 6-month warranty?",
   "intents": [
+    "Can I still make a warranty claim within the 6-month period?",
+    
 "6 month warranty",
 "sandals under warranty",
 "check warranty period",
@@ -425,6 +437,9 @@
   "category": "Store Locator",
   "question": "What stores carry your sandals near me?",
   "intents": [
+    "Where can I buy your sandals locally?", 
+    "Are your sandals available at any nearby stores?",
+    
 "store locator",
 "where can i buy sandals",
 "stores near me",
