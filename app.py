@@ -27,10 +27,11 @@ logo_base64 = get_base64_image("logo.jpeg")
 # -----------------------------
 st.markdown(f"""
 <style>
-/* 🔥 Hide Streamlit Default UI */
-#MainMenu {visibility: hidden;}
-header {visibility: hidden;}
-footer {visibility: hidden;}
+
+#MainMenu {{visibility: hidden;}}
+header {{visibility: hidden;}}
+footer {{visibility: hidden;}}
+
 
 
 
