@@ -160,7 +160,13 @@
 "sandals dye problem",
 "feet turning color sandals",
 "sandals bleeding dye",
-"warranty for staining"
+"warranty for staining",
+
+      "My sandals left stains on my feet. Is this something the warranty covers?",
+"The sandals I bought are staining my feet—can I claim this under the warranty?",
+"these sandals are leaving marks on my feet. Is that covered by the warranty?",
+"My sandals are causing stains on my feet. Can I get a warranty replacement or refund?",
+"stains feet"
 ],
     "answer": "Thank you for your photos and explanation. What you are experiencing is not something that is covered under our warranty. When leather gets wet it will stiffen as it dries, it can crack, bleed, stain, shrink, or do nothing. Leather is unpredictable and it doesn’t necessarily do the same thing twice. Water is not good for leather and while I do realize that the sandals were not being used with the intent to get them wet, this did happen because of use and is therefore not covered. After they are totally dry and have been worn a few times dry the bleeding should slow down and eventually stop but no guarantee. I apologize we cannot be of further assistance."
   },
@@ -211,7 +217,10 @@
 "lost delivery",
 "package not received",
 "delivery problem",
-"where is delivered package"
+"where is delivered package",
+    "According to the tracking, my order was delivered, but I didn’t get it. What should I do?",
+    "My shipment shows delivered, but I didn’t receive the package. What are the next steps?",
+    "My package appears as delivered in tracking, but it’s missing. What should I do?"
 ],
   "answer": "Thank you for your response and explanation of the situation. We will begin a claim process for you where we will contact the US Postal Service to determine exactly what occurred and the location of your order. Response time from the Postal Service is usually between 1-3 business days. Once we hear back from them, we will contact you directly to let you know the options available to get your sandals to you as soon as possible. I hope this information is helpful, but please let us know if you have any other questions or concerns."
   },
@@ -228,7 +237,11 @@
 "fix worn sole",
 "sandal sole replacement",
 "repair worn soles",
-"resoling service"
+"resoling service",
+    "Do you offer sole replacement for worn shoes?",
+    "Is it possible to get the soles of my shoes replaced?",
+    "Can I have the soles of my shoes changed if they’re worn out?",
+    "Do you provide a service to replace old or damaged soles?"
 ],
   "answer": "Thank you for those photos. Worn soles are not covered under our warranty. We can replace these soles at a price for you though. It’s a highly labor-intensive process and the cost is \\$20.00 per sandal, or \\$40.00 for the pair. This covers installation of a new soles, sanding around the edges of both sandals, and shipping back to your home. If you are interested, please mail both sandals into us at the address below in my signature and include a check, money order, credit card number, or cash as well as a note indicating you would like to use the pay for resoling repair service. Thank you."
   },
@@ -245,7 +258,11 @@
 "pet damaged sandals",
 "dog destroyed sandals",
 "repair dog chew sandals",
-"fix chewed sandals"
+"fix chewed sandals",
+    "My sandals were damaged by my dog. Is it possible to fix them?",
+    "My sandals were chewed by my dog. Are repairs available for this?",
+    "My dog ruined my sandals. Do you offer repairs for this kind of damage?",
+    "Is it possible to fix sandals that were chewed by a dog?"
 ],
   "answer": "Dog chew damage is not covered under warranty, but we can replace the strap for \\$20 per strap. This includes installing the new strap, sanding the edges, and shipping the sandals back to you."
   },
@@ -255,6 +272,8 @@
   "category": "Repair",
   "question": "My dog chewed my sandals. What are my options?",
   "intents": [
+    "My sandals were chewed by my dog. What options do I have?",
+    "My sandals got chewed by my dog. What can I do next?",
 "dog chewed sandals options",
 "dog damage repair options",
 "what can i do dog chewed sandals",
@@ -273,6 +292,11 @@
   "category": "Comfort",
   "question": "My sandals hurt. How do I break them in faster?",
   "intents": [
+    "My sandals are hurting my feet. What’s the fastest way to break them in?",
+    "These sandals feel tight and painful. How can I break them in faster?",
+    "My sandals are causing discomfort. How can I make them more comfortable quickly?",
+    "My new sandals hurt when I walk. How can I break them in sooner? ",
+    
 "sandals hurt my feet",
 "break in sandals",
 "how to break in sandals",
@@ -290,6 +314,10 @@
   "category": "Ordering",
   "question": "I\u2019m having trouble placing an order on the website. Can you help?",
   "intents": [
+    "I’m experiencing issues when trying to order online. Can you help?",
+    "There’s a problem with placing my order online. Can you help resolve it?",
+    "I’m not able to submit my order. Can you help?",
+    "I’m running into an issue while ordering on the site. Can you help me fix it? 🛒",
 "cant place order",
 "website order problem",
 "checkout not working",
@@ -307,6 +335,8 @@
   "category": "Custom Orders",
   "question": "How do I place a custom sandal order?",
   "intents": [
+    "How can I get sandals made to my specifications?",
+    
 "custom sandal order",
 "order custom sandals",
 "custom rainbow sandals",
@@ -324,6 +354,9 @@
   "category": "International Orders",
   "question": "Do you ship internationally? How do I place an international order?",
   "intents": [
+    "Do you deliver to other countries? How do I make an international purchase?",
+    "How do I place an order if I’m located outside the country?",
+    "Can customers order from abroad, and how is it done? 🌍📦",
 "international shipping",
 "ship outside usa",
 "order from another country",
